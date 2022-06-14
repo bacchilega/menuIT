@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691422110387",
+    "project_id": "menuit-473e6",
+    "storage_bucket": "menuit-473e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691422110387:android:5e14dc3e1512de1045c6c6",
+        "android_client_info": {
+          "package_name": "com.menuit.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691422110387-8g6po76ftnq6i5604sednc59i2frgc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfh4awdqVnUkqFN-22mJIa-KfsJ4XMdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691422110387-8g6po76ftnq6i5604sednc59i2frgc6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
